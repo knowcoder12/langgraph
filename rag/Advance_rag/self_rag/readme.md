@@ -4,4 +4,5 @@
 problem :
 1. even when llm had the parametric knowledge still it hve to call rag retrive docs and etc
 2. llm fully depend on retrived doc so even if it contain wring answer its going to give the same o above are the things that self rag introduce and do better
-3. 
+
+for other things go to watch video 
